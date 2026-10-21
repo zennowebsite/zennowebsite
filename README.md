@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zennowebsite/.github/main/zennowebsite/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zennowebsite/.github/main/zennowebsite/banner-light.svg">
-  <img alt="Zenno Web: sites profissionais para pequenos negócios" src="https://raw.githubusercontent.com/zennowebsite/.github/main/profile/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zennowebsite/zennowebsite/blob/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zennowebsite/zennowebsite/blob/main/banner-light.svg">
+  <img alt="Zenno Web: sites profissionais para pequenos negócios" src="https://github.com/zennowebsite/zennowebsite/blob/main/banner-light.svg" width="100%">
 </picture>
 
 <br/>
