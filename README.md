@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zennowebsite/.github/main/zennowebsite/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zennowebsite/.github/main/zennowebsite/banner-light.svg">
-  <img alt="Zenno Web: sites profissionais para pequenos negócios" src="https://raw.githubusercontent.com/SUA-ORG/.github/main/profile/banner-light.svg" width="100%">
+  <img alt="Zenno Web: sites profissionais para pequenos negócios" src="https://raw.githubusercontent.com/zennowebsite/.github/main/profile/banner-light.svg" width="100%">
 </picture>
 
 <br/>
